@@ -59,7 +59,7 @@ elif(option ==2) :
 
 elif(option == 3) :
     id = int(input("Enter the hospital id : "))
-    name = input("Enter hospital name name : ")
+    name = input("Enter hospital name: ")
     grp = input("Enter required blood group : ")
     unit = int(input("Enter required units of blood : "))
     reg = input("Enter the region : ")
